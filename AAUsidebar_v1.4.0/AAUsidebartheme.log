@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2016.2.20)  13 MAY 2016 22:49
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2016.2.20)  13 MAY 2016 23:01
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1464,15 +1464,8 @@ LaTeX Info: Redefining \% on input line 25.
 )
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 179.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 179.
-
-
-Package rerunfilecheck Warning: File `AAUsidebartheme.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `AAUsidebartheme.out':
-(rerunfilecheck)             Before: 4CC8C242ACB8E1CA7D9431CB6C8A6BF8;552
-(rerunfilecheck)             After:  33AC6537DC067AD8B54D964450BE15DB;553.
+Package rerunfilecheck Info: File `AAUsidebartheme.out' has not changed.
+(rerunfilecheck)             Checksum: 33AC6537DC067AD8B54D964450BE15DB;553.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 179.
  ) 
 Here is how much of TeX's memory you used:
@@ -1487,7 +1480,7 @@ Here is how much of TeX's memory you used:
 ul/.texmf-var/fonts/pk/ljfour/jknappen/ec/ectt1000.600pk>{/usr/share/texlive/te
 xmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texlive/texmf-dist/fonts/type1
 /urw/helvetic/uhvr8a.pfb>
-Output written on AAUsidebartheme.pdf (15 pages, 310085 bytes).
+Output written on AAUsidebartheme.pdf (15 pages, 310074 bytes).
 PDF statistics:
  366 PDF objects out of 1000 (max. 8388607)
  261 compressed objects within 3 object streams
